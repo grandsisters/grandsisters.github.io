@@ -1,9 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.363cfc29.css",
-    "main.js": "/static/js/main.c178e97f.js",
+    "main.js": "/static/js/main.b3711ec5.js",
     "static/js/787.ac31b958.chunk.js": "/static/js/787.ac31b958.chunk.js",
+    "static/media/backgroundImg.jpg": "/static/media/backgroundImg.9bcd9402b5d808962595.jpg",
+    "static/media/LandingCarouselImg7.png": "/static/media/LandingCarouselImg7.b7c8637f05a708364dbc.png",
+    "static/media/LandingCarouselImg5.png": "/static/media/LandingCarouselImg5.bc7e37768628ddc757d0.png",
+    "static/media/LandingCarouselImg1.png": "/static/media/LandingCarouselImg1.6d8052d1d3b8ccf5464b.png",
+    "static/media/LandingCarouselImg2.png": "/static/media/LandingCarouselImg2.a4b874647064772f77e1.png",
+    "static/media/LandingCarouselImg4.png": "/static/media/LandingCarouselImg4.46f6f43758aece937b9d.png",
+    "static/media/LandingCarouselImg3.png": "/static/media/LandingCarouselImg3.ea5cffa08218bae70802.png",
     "static/media/profileLogo.jpg": "/static/media/profileLogo.c776292bb6561f1c986b.jpg",
+    "static/media/LandingCarouselImg6.png": "/static/media/LandingCarouselImg6.5dd5ce5f3ee5d28b16a0.png",
     "static/media/modalImage.svg": "/static/media/modalImage.ac7015e70314fc49b01e4b31968546e7.svg",
     "static/media/setting.svg": "/static/media/setting.867a24af8c7a5ba2a8e6ea733f008e3b.svg",
     "static/media/selectedNew.svg": "/static/media/selectedNew.dcaddba456413b40622259053483d0f2.svg",
@@ -23,11 +31,11 @@
     "static/media/comment.svg": "/static/media/comment.4cc5bcd3e29ecf77681fdea18a88603e.svg",
     "static/media/etc.svg": "/static/media/etc.8ae7d0de9b3f522149cf0c351df39f12.svg",
     "main.363cfc29.css.map": "/static/css/main.363cfc29.css.map",
-    "main.c178e97f.js.map": "/static/js/main.c178e97f.js.map",
+    "main.b3711ec5.js.map": "/static/js/main.b3711ec5.js.map",
     "787.ac31b958.chunk.js.map": "/static/js/787.ac31b958.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.363cfc29.css",
-    "static/js/main.c178e97f.js"
+    "static/js/main.b3711ec5.js"
   ]
 }
